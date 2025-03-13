@@ -1,4 +1,4 @@
-#Student-Score-Data-Analysis 
+# Student-Score-Data-Analysis 
 
 This Python project focuses on analyzing student data to gain insights into various aspects of education. We explore gender distributions, the impact of parents’ education, and the ethnic composition of students. Additionally, we’ve created visualizations to enhance understanding.
 To check the gender distributions of students:
