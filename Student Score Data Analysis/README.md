@@ -16,5 +16,6 @@ This Python project focuses on analyzing student data to gain insights into vari
 
 •	Countplot : to check the values according to the another dataset
 
-•	Boxplot : to detect the outliers in the data
+•	Boxplot : to detect the outliers in tha data
+
 
