@@ -1,7 +1,7 @@
  
 ✅ Data collection and cleaning
 
-✅ Exploratory Data Analysis (EDA)
+✅ Exploratory Data Analysis (.....EDA)
 
 ✅ Data visualization with Matplotlib & Seaborn
 
